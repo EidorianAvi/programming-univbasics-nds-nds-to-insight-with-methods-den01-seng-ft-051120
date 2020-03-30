@@ -43,6 +43,7 @@ end
 
 # Write a method that, given an NDS creates a new Hash
 # The return value should be like:
+
 def directors_totals(nds)
    total = {}
    i = 0
